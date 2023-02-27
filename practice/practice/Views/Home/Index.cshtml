@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var para = " areh bhai thanks bye!";
+    int num = 4,i;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <h2>@para</h2>
+    @{
+        for (i = 0; i < num; i++)
+        {
+            <h6>Value of i : @i</h6>
+        }
+        if(i == num)
+        {
+            <h1>i is equal to num now! go away</h1>
+            <a asp-controller="Home" asp-action="Privacy" class="btn btn-outline-danger px-5 ">Go Now</a>
+            <a asp-controller="Home" asp-action="form" class="btn btn-outline-danger px-5 ">Fill Form</a>
+        }
+
+    }
+    
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

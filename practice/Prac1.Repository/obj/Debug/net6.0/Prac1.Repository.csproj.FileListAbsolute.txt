@@ -1,0 +1,14 @@
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\bin\Debug\net6.0\Prac1.Repository.deps.json
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\bin\Debug\net6.0\Prac1.Repository.runtimeconfig.json
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\bin\Debug\net6.0\Prac1.Repository.dll
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\bin\Debug\net6.0\ref\Prac1.Repository.dll
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\bin\Debug\net6.0\Prac1.Repository.pdb
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\Prac1.Repository.csproj.AssemblyReference.cache
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\Prac1.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\Prac1.Repository.AssemblyInfoInputs.cache
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\Prac1.Repository.AssemblyInfo.cs
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\Prac1.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\Prac1.Repository.dll
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\ref\Prac1.Repository.dll
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\Prac1.Repository.pdb
+C:\Users\pct119\Desktop\Tatvasoft\.NET MVC\Daily Practice\27.02.23\practice\Prac1.Repository\obj\Debug\net6.0\Prac1.Repository.genruntimeconfig.cache

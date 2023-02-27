@@ -1,0 +1,36 @@
+﻿@using prac1.Entities.DataModels
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Login
+
+<div class="container">
+
+    <h1 class="text-center">Fill the below form now</h1>
+
+<form class="" method="post" asp-action="Submitted">
+    <div class="mb-3">
+        <label for="Email" class="form-label" style="color: #414141;font-size: 16px;">
+            Email Address
+        </label>
+        <input type="email" class="form-control form-input py-3"
+               style=" display:inline;color: #414141; border-radius: 3px;box-shadow: none;" id="Email"
+               placeholder="evan.donohue@gmail.com" asp-for="Email">
+    </div>
+    <div class="mb-3">
+        <label for="Password" class="form-label"
+               style="color: #414141;font-size: 16px;">Password</label>
+        <input type="password" class="form-control form-input py-3" id="Password"
+               style="box-shadow: none;" placeholder="**********" asp-for="Password">
+    </div>
+    @*<button type="button"
+            class="btn form-control btn-outline-warning mb-3 mt-3 rounded-pill btn-outline-mystyle py-2"
+            style="font-size: 17px;">
+        Login
+    </button>*@
+    <input type="submit" class="btn form-control btn-outline-warning mb-3 mt-3 rounded-pill btn-outline-mystyle py-2" value="Login" />
+</form>
+
+</div>
